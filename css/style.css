@@ -1,0 +1,17 @@
+* {
+	margin: *;
+	padding: *;
+}
+html, body {
+	width: 100%;
+	height: 100%;
+}
+body {
+	background: #d0d0d0;
+}
+canvas, video {
+	width: 640px;
+	height: 480px;
+	position: absolute;
+	border: 1px solid red;
+}
